@@ -106,7 +106,6 @@ src/
 - Authentication is simulated
 - Data is stored in browser localStorage
 - No database integration
-- Perfect for demos and academic projects
 
 ## 📝 Usage
 
